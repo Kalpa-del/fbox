@@ -39,7 +39,7 @@ if num1 == "1":
       print (firstnum/secondnum)
   else:
     if i == "n":
-      print ("above...")
+      print ("abort...")
 
 #END(Cal)
 

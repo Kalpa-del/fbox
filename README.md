@@ -1,0 +1,3 @@
+# fbox
+My Python instance
+这不是什么有用的程序，这仅仅是本人Python学习效果记录而已…
